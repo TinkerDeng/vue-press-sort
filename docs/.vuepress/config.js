@@ -59,9 +59,8 @@ module.exports = {
     // 嵌套标题链接深度 默认是1
     sidebarDepth: 2,
     // 最后更新时间
-    lastUpdated: 'Last Updated',
-    // 
-    repo: 'http://gitlab.renrenche.com/liuguangsen/vue-press-sort',
+    lastUpdated: '2019-02-13',
+    repo: 'https://github.com/TinkerDeng/vue-press-sort.git',
     editLinks: true,
     editLinkText: '在gitlab上编辑此页',
   }
